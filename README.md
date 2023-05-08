@@ -12,10 +12,6 @@ Secrets & easter eggs in the penguinmod
 - [2](https://penguinmod.site/#2) test project
 - [3](https://penguinmod.site/#3) test project (Previously "RUN")
 
-###### Deleted
-- [8](https://penguinmod.site/#8) BitCoin mining sim
-- [10](https://penguinmod.site/#10) epic sandbox thing
-
 ## Admin page
 
 ![image](https://user-images.githubusercontent.com/75479945/236469525-acedd019-32ea-46c3-a34e-abbfade053ba.png)
