@@ -22,3 +22,11 @@ Secrets & easter eggs in the penguinmod
 ![image](https://user-images.githubusercontent.com/75479945/236469525-acedd019-32ea-46c3-a34e-abbfade053ba.png)
 
 When trying to view or modify unaproved projects it insults you
+
+## Editor
+
+### Your mom
+
+1. Change your username to "yourmom" (<kbd>Edit</kbd> tab)
+2. Reload
+3. See the effects (all blocks should be replaced with your mom)
