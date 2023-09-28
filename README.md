@@ -6,6 +6,7 @@ Secrets & easter eggs in the penguinmod
 - through the fire and oof ([/through_the_fire_and_oof.mp4](https://penguinmod.site/through_the_fire_and_oof.mp4))
 - bx-tv1 ([/bx-tv1.mp4](https://penguinmod.site/bx-tv1.mp4) or [/panel](https://home.penguinmod.site/panel) if you're not admin)
 - fail ([/fail.mp4](https://penguinmod.site/fail.mp4))
+- math ([/math.mp4](https://penguinmod.site/math.mp4))
 
 ## Projects
 #### Admin project ids
