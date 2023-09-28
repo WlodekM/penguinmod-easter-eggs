@@ -7,7 +7,7 @@ Secrets & easter eggs in the penguinmod
 - bx-tv1 ([/bx-tv1.mp4](https://penguinmod.site/bx-tv1.mp4) or [/panel](https://home.penguinmod.site/panel) if you're not admin)
 - fail ([/fail.mp4](https://penguinmod.site/fail.mp4))
 - math ([/math.mp4](https://penguinmod.site/math.mp4))
-- MR BEAST ([/dump/MISTER_BEAST.webm](https://penguinmod.site/dump/MISTER_BEAST.webm)) [LOUD WARNING]
+- MR BEAST ([/dump/MISTER_BEAST.webm](https://penguinmod.site/dump/MISTER_BEAST.webm)) <kbd>LOUD WARNING</kbd>
 - chips ([/dump/chips.mp4](https://penguinmod.site/dump/chips.mp4))
 - your mom ([/dump/urmom-your-mom.mp4](https://penguinmod.site/dump/urmom-your-mom.mp4))
 
