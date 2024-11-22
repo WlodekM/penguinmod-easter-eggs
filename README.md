@@ -2,7 +2,7 @@
 Secrets & easter eggs in the penguinmod
 * * *
 ## Home
-#### Videos
+#### Videos (not avaliable anymore)
 - through the fire and oof ([/through_the_fire_and_oof.mp4](https://penguinmod.com/through_the_fire_and_oof.mp4))
 - bx-tv1 ([/bx-tv1.mp4](https://penguinmod.com/bx-tv1.mp4) or [/panel](https://home.penguinmod.com/panel) if you're not admin)
 - fail ([/fail.mp4](https://penguinmod.com/fail.mp4))
@@ -11,8 +11,13 @@ Secrets & easter eggs in the penguinmod
 - chips ([/dump/chips.mp4](https://penguinmod.com/dump/chips.mp4))
 - your mom ([/dump/urmom-your-mom.mp4](https://penguinmod.com/dump/urmom-your-mom.mp4))
 
+#### Pages
+- MenguinPod is real ([/MENGUINPOD-THETRUTH.html](https://penguinmod.com/MENGUINPOD-THETRUTH.html))
+- "8ball" ([/8ball.html](https://penguinmod.com/8ball.html))
+- EAO ([/eao.html](https://penguinmod.com/eao.html))
+
 ## Projects
-#### Admin project ids
+#### Admin project ids (not avaliable right now, as the old data hasn't been restored yet)
 - [1](https://studio.penguinmod.com/#1) test project (Previously typewrighter)
 - [2](https://studio.penguinmod.com/#2) test project
 - [3](https://studio.penguinmod.com/#3) test project (Previously "RUN")
